@@ -1,0 +1,40 @@
+/* styles.css */
+:root {
+    /* Light Theme */
+    --bg-color-light: #f4f7fa;
+    --navbar-bg-light: #0c2a4d; /* Deep Space Blue */
+    --text-color-light: #1c1c1e;
+  
+    /* Dark Theme */
+    --bg-color-dark: #0c2a4d; /* Deep Space Blue */
+    --navbar-bg-dark: #2a7454; /* Vibrant Green */
+    --text-color-dark: #e8e4d9; /* Ivory White */
+  }
+  
+  /* Light Mode */
+  .light-mode {
+    --bg-color: var(--bg-color-light);
+    --navbar-bg: var(--navbar-bg-light);
+    --text-color: var(--text-color-light);
+  }
+  
+  /* Dark Mode */
+  .dark-mode {
+    --bg-color: var(--bg-color-dark);
+    --navbar-bg: var(--navbar-bg-dark);
+    --text-color: var(--text-color-dark);
+  }
+  
+  /* Applying styles */
+  body {
+    background-color: #D3D3D3; /* Primary Gallente color */
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; /* Optional: Set a default font */
+}
+  
+  .navbar {
+    background-color: var(--navbar-bg);
+    color: var(--text-color);
+  }
+  

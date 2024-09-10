@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Minmatar Republic",
+        "description": "The Minmatar Republic is a close ally of the Gallente Federation, sharing a strong bond based on mutual respect for freedom and democracy. Together, they work to promote these values across the galaxy.",
+        "benefits": [
+            "Shared commitment to democratic ideals and freedom.",
+            "Mutual defense agreements and military cooperation.",
+            "Cultural exchange and economic partnerships."
+        ],
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdwallpapers.in%2Fdownload%2Feve_online_minmatar-HD.jpg&f=1&nofb=1&ipt=50ef4728cd20bc4da17fb174649f0b12b72242f46fa15a8d882eacdbe3d2cf0b&ipo=images"
+    },
+    {
+        "name": "Jove Empire",
+        "description": "The Jove Empire, though enigmatic, has often aligned with the Gallente Federation on matters of technological advancement and mutual defense, fostering a relationship based on shared interests.",
+        "benefits": [
+            "Collaboration on advanced technology and research.",
+            "Strategic alliances for mutual defense.",
+            "Shared intelligence and exploration initiatives."
+        ],
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1170321140105831804/219FC4D444B797A59DD849424AF897E0614461D5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false"
+    },
+    {
+        "name": "Sisters of EVE",
+        "description": "The Sisters of EVE is a humanitarian organization that often collaborates with the Gallente Federation on rescue operations and scientific research, sharing a commitment to helping those in need.",
+        "benefits": [
+            "Joint humanitarian missions and rescue operations.",
+            "Collaboration on scientific and medical research.",
+            "Shared resources for disaster relief and aid."
+        ],
+        "image": "http://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/3952729/23082f5cdc9464e8151af7f7241fdd6fe6b2337c.jpg"
+    },
+    {
+        "name": "Galactic Republic",
+        "description": "The Galactic Republic, a bastion of democracy and peace in a galaxy far, far away, was discovered by the Gallente Federation through an ancient wormhole. This serendipitous encounter has led to a unique alliance based on shared ideals and a mutual fascination with each other's cultures.",
+        "benefits": [
+            "Exchange of diplomatic and cultural missions.",
+            "Joint exploration and scientific endeavors.",
+            "Mutual support in maintaining peace and stability across galaxies."
+        ],
+        "image": "https://i.imgur.com/mhpADRI.jpeg"
+    },
+    {
+        "name": "The Doctor",
+        "description": "The Doctor, a Time Lord from Gallifrey, has become an unexpected ally of the Gallente Federation. Known for opposing tyranny and protecting the universe, the Doctor aids in the fight against the Daleks, offering wisdom and advanced technology.",
+        "benefits": [
+            "Strategic guidance in combating universal threats.",
+            "Access to advanced Time Lord technology.",
+            "Shared mission to uphold freedom and justice."
+        ],
+        "image": "https://images.ctfassets.net/7lhcm73ukv5p/21kA3F9v5i2Whepzqksz7C/3afc5b0f93aeaea0c8d8f50218c69efa/doctor_who_dlp_top.jpg"
+    },
+    {
+        "name": "The Crew of the ClearSkies",
+        "description": "The crew of the ClearSkies, known for their daring and resourcefulness, have become valuable allies of the Gallente Federation. Their notable achievements include assisting in the transport of a Jovian ambassador, preventing a rogue Gallente terrorist attack, and reclaiming a stolen Jovian power core.",
+        "benefits": [
+            "Expertise in high-stakes transport and security operations.",
+            "Proven track record in counter-terrorism efforts.",
+            "Strong ties with Jovian entities and access to unique resources."
+        ],
+        "image": "images\\Clear Skies 3 BackDrop.webp"
+    }
+]
