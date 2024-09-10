@@ -4,6 +4,9 @@ import CreatePage from './components/CreatePage.vue';
 import ShipList from './components/ShipList.vue';
 import GallenteEnemies from './components/GallenteEnemies.vue';
 import GallenteAllies from './components/GallenteAllies.vue';
+import ResearchAndDevelopment from './components/R&D.vue'
+import FutureInnovations from './components/FutureInnovations.vue';
+
 
 const router = createRouter({
     history: createWebHashHistory(),
@@ -13,7 +16,9 @@ const router = createRouter({
         { path: '/create', component: CreatePage },
         { path: '/ships', component: ShipList },
         { path: '/enemies', component: GallenteEnemies},
-        { path: '/allies', component: GallenteAllies}
+        { path: '/allies', component: GallenteAllies},
+        { path: '/R&D', component: ResearchAndDevelopment},
+        { path: '/futureInnovations', component: FutureInnovations}
     ]
 });
 

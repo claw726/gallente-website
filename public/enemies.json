@@ -39,5 +39,55 @@
         "Unpredictable and aggressive military tactics."
       ],
       "image": "https://global.discourse-cdn.com/eveonline/original/3X/4/e/4e904875a96e4bdcef97c0a32d45dab301e337e0.png"
-    }
-  ]
+    },
+    {
+      "name": "Amarr Empire",
+      "description": "The Amarr Empire is one of the largest and oldest empires in New Eden, known for its theocratic and authoritarian rule. The Gallente often clash with the Amarr due to ideological differences, particularly regarding freedom and individual rights versus the Amarr's practice of slavery and strict social hierarchy.",
+      "reasons": [
+          "Fundamental ideological differences regarding governance and individual freedoms.",
+          "Historical conflicts and territorial disputes.",
+          "Opposition to the Amarr's practice of slavery."
+      ],
+      "image": "https://www.hdwallpapers.in/download/eve_online_amarr-HD.jpg"
+  },
+  {
+      "name": "Sansha's Nation",
+      "description": "Sansha's Nation is a rogue state led by the megalomaniac Sansha Kuvakei. Known for its use of mind control and cybernetic enhancements, Sansha's Nation poses a significant threat to the Gallente Federation's values of freedom and autonomy.",
+      "reasons": [
+          "Threats to individual autonomy and freedom through mind control.",
+          "Aggressive expansion and incursions into Gallente space.",
+          "Ideological opposition to Sansha's authoritarian regime."
+      ],
+      "image": "https://images.contentful.com/1gqwxa4vbed9/10rNrK7mQHxlVQxJdOVOtj/0281a3b646846927f4b945f775b81a43/Sanshas_hangar.png"
+  },
+  {
+      "name": "Blood Raider Covenant",
+      "description": "The Blood Raiders are a fanatical cult within the Amarr Empire, known for their violent rituals and bloodthirsty raids. Their activities often bring them into conflict with the Gallente Federation, especially when they target Gallente citizens.",
+      "reasons": [
+          "Violent raids and attacks on Gallente territories.",
+          "Threats to public safety and security.",
+          "Ideological opposition to their extremist beliefs and practices."
+      ],
+      "image": "https://content.eveonline.com/www/newssystem/media/68661/1/Bloodraiders_1920x1080.jpg"
+  },
+  {
+      "name": "Angel Cartel",
+      "description": "The Angel Cartel is one of the largest and most powerful criminal organizations in New Eden. Their involvement in illegal activities, such as smuggling and piracy, often puts them at odds with the Gallente Federation.",
+      "reasons": [
+          "Smuggling and piracy operations affecting Gallente trade routes.",
+          "Criminal activities undermining Gallente law and order.",
+          "Territorial disputes and control over strategic systems."
+      ],
+      "image": "https://webimg.ccpgamescdn.com/kvd74o0q2fjg/696EFCi8taYw6OCUYcOwW2/ea7a696c8bcf6c38e6508a7a90548312/CruiserBurnerMissions-Image_1920X1080.jpg"
+  },
+  {
+    "name": "Guristas Pirates",
+    "description": "The Guristas Pirates are a notorious criminal organization founded by former Caldari Navy officers. While they primarily target the Caldari State, their piracy and smuggling operations extend throughout New Eden, posing a threat to the Gallente Federation.",
+    "reasons": [
+        "Piracy and smuggling operations disrupting trade routes.",
+        "Criminal activities undermining Gallente law and order.",
+        "Threats to regional security and stability."
+    ],
+    "image": "https://webimg.ccpgamescdn.com/kvd74o0q2fjg/3erT9MJbzamWiM42OWMaYy/53615170325d20285b27b5ceae364995/FeatureImageCruiserBurnerMissions_1920x1080.jpg"
+  }
+]
