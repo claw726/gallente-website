@@ -2,7 +2,7 @@
     <div :class="['p-4', themeClass]">
       <h1 :class="['text-3xl', 'font-bold', 'mb-8', 'text-center']" :style="{ color: gallenteAlertColor }">Gallente Federation Events</h1>
       
-      <section v-for="event in events" :key="event.name" :class="['mb-12', 'flex', 'flex-col', 'md:flex-row', 'items-stretch', 'p-6', 'rounded-lg', 'glow-effect', 'border-gallente-green', tileClass]">
+      <section v-for="event in events" :key="event.name" :class="['mb-12', 'flex', 'flex-col', 'md:flex-row', 'items-start', 'p-6', 'rounded-lg', 'glow-effect', 'border-gallente-green', tileClass]">
         <div :class="['flex-grow', 'mb-4', 'md:mb-0', 'md:pr-6', 'shadow-lg', 'p-4', 'rounded-lg', 'flex', 'flex-col', 'justify-between']">
           <h2 :class="['text-2xl', 'font-semibold', 'mb-2', textClass, 'underline']">{{ event.name }}</h2>
           <p :class="['mb-2', textClass]">{{ event.description }}</p>
