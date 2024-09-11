@@ -278,5 +278,69 @@
     "classification": "Cruiser",
     "icon": "https://wiki.eveuniversity.org/images/8/8b/Proteus.jpg",
     "techLevel": "T3"
+  },
+  {
+    "name": "Eos",
+    "size": "Medium",
+    "speed": "150 m/s",
+    "classification": "Cruiser",
+    "icon": "https://wiki.eveuniversity.org/images/6/64/Eos.jpg",
+    "techLevel": "T2"
+  },
+  {
+    "name": "Sin",
+    "size": "Large",
+    "speed": "117 m/s",
+    "classification": "Battleship",
+    "icon": "https://wiki.eveuniversity.org/images/3/3e/Sin.jpg",
+    "techLevel": "T2"
+  },
+  {
+    "name": "Astarte",
+    "size": "Medium",
+    "speed": "165 m/s",
+    "classification": "Battlecruiser",
+    "icon": "https://wiki.eveuniversity.org/images/0/02/Astarte.jpg",
+    "techLevel": "T2"
+  },
+  {
+    "name": "Helios",
+    "size": "Small",
+    "speed": "330 m/s",
+    "classification": "Frigate",
+    "icon": "https://wiki.eveuniversity.org/images/7/75/Helios.jpg",
+    "techLevel": "T2"
+  },
+  {
+    "name": "Nemesis",
+    "size": "Small",
+    "speed": "275 m/s",
+    "classification": "Frigate",
+    "icon": "https://wiki.eveuniversity.org/images/2/22/Nemesis.jpg",
+    "techLevel": "T2"
+  },
+  {
+    "name": "Eris",
+    "size": "Small",
+    "speed": "316 m/s",
+    "classification": "Destroyer",
+    "icon": "https://wiki.eveuniversity.org/images/c/cd/Eris.jpg",
+    "techLevel": "T2"
+  },
+  {
+    "name": "Arazu",
+    "size": "Medium",
+    "speed": "207 m/s",
+    "classification": "Cruiser",
+    "icon": "https://wiki.eveuniversity.org/images/5/55/Arazu.jpg",
+    "techLevel": "T2"
+  },
+  {
+    "name": "Lachesis",
+    "size": "Medium",
+    "speed": "220 m/s",
+    "classification": "Cruiser",
+    "icon": "https://wiki.eveuniversity.org/images/7/79/Lachesis.jpg",
+    "techLevel": "T2"
   }
 ]
