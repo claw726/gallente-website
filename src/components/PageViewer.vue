@@ -1,4 +1,5 @@
 <template class="bg-zinc-800">
+  <div v-if="page" class="min-h-screen">
     <div v-if="page" :class="['flex', 'flex-col', 'min-h-screen', 'p-8', `bg-${themeState.theme}`]">
       <HeroImage
         :imageSrc="page.image"
@@ -6,7 +7,8 @@
         :sections="page.sections"
       />
     </div>
-  </template>
+  </div>
+</template>
   
   <script>
   import HeroImage from './HeroImage.vue'
@@ -14,10 +16,16 @@
   import DOMPurify from 'dompurify';
   
   export default {
+    name: 'PageComponent',
     components: {
       HeroImage
     },
-    props: ['index'],
+    props: {
+      index: {
+        type: Number,
+        required: true
+      }
+    },
     setup() {
       return { themeState };
     },
@@ -27,19 +35,25 @@
       };
     },
     created() {
-      this.loadPage(this.index);
+      this.fetchPage(this.index);
+    },
+    computed: {
+      themeClass() {
+        return this.page ? 'bg-${this.page.theme}' : '';
+      }
     },
     watch: {
-      index(newIndex) {
-        this.loadPage(newIndex);
+      index: {
+        immediate: true,
+        handler: 'fetchPage'
       }
     },
     methods: {
-      loadPage(index) {
-        const rawPage = this.$pages.getSinglePage(index);
+      fetchPage(index) {
+        const pageData = this.$pages.getSinglePage(index);
         this.page = {
-          ...rawPage,
-          sections: rawPage.sections.map(section => ({
+          ...pageData,
+          sections: pageData.sections.map(section => ({
             ...section,
             content: this.sanitizeContent(section.content)
           }))
