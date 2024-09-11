@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Gallente Theater",
+      "description": "The Gallente Theater is a renowned institution in the Federation, showcasing a wide range of productions from classical plays to cutting-edge experimental works.",
+      "category": "Theater",
+      "artists": ["Jean-Luc LeFleur", "Marie-Claire Lefebvre"],
+      "notableWorks": ["The Gallente Revolution", "The Intaki Uprising"],
+      "image": "./images/b06b72db-c6fe-4ec6-8c42-2e200a0a183b.png"
+    },
+    {
+      "name": "Gallente Visual Arts",
+      "description": "Gallente artists are known for their innovative and provocative works, pushing the boundaries of what is possible in various mediums.",
+      "category": "Visual Arts",
+      "artists": ["Pierre Dupont", "Sophie Lefebvre"],
+      "notableWorks": ["The Federation's Future", "The Intaki Dream"],
+      "image": "./images/8cfdf885-ad4f-4777-a918-573ce21edee9.png"
+    },
+    {
+      "name": "Gallente Music and Dance",
+      "description": "The Federation's rich cultural heritage is reflected in its diverse musical and dance traditions, from the elegant waltzes of the Gallente aristocracy to the energetic rhythms of the Intaki.",
+      "category": "Music and Dance",
+      "artists": ["Jean-Pierre Lefebvre", "Marie-Claire Dupont"],
+      "notableWorks": ["The Gallente Waltz", "The Intaki Rhythm"],
+      "image": "./images/4a49f175-4b54-4e2f-afed-76c2d33e7157.png"
+    }
+  ]
