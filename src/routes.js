@@ -6,6 +6,9 @@ import GallenteEnemies from './components/GallenteEnemies.vue';
 import GallenteAllies from './components/GallenteAllies.vue';
 import ResearchAndDevelopment from './components/R&D.vue'
 import FutureInnovations from './components/FutureInnovations.vue';
+import Events from './components/GallenteEvents.vue';
+import FAQ from './components/FAQPage.vue';
+import Constitution from './components/GallenteConstitution.vue';
 
 
 const router = createRouter({
@@ -18,7 +21,11 @@ const router = createRouter({
         { path: '/enemies', component: GallenteEnemies},
         { path: '/allies', component: GallenteAllies},
         { path: '/R&D', component: ResearchAndDevelopment},
-        { path: '/futureInnovations', component: FutureInnovations}
+        { path: '/futureInnovations', component: FutureInnovations},
+        { path: '/events', component: Events},
+        { path: '/FAQ', component: FAQ},
+        { path: '/constitution', component: Constitution}
+
     ]
 });
 

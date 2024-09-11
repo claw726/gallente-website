@@ -14,7 +14,11 @@
       <tbody>
         <tr v-for="(ship, index) in sortedSpaceships" :key="index" :class="index % 2 === 0 ? 'bg-zinc-700' : 'bg-zinc-800'">
           <td class="py-2 px-4 border-b border-zinc-600">
-            <img :src="ship.icon" :alt="`${ship.name} icon`" class="ship-icon" />
+            <div class="relative inline-block ship-icon">
+              <img :src="ship.icon" :alt="`${ship.name} icon`" class="rounded" />
+              <img v-if="ship.techLevel === 'T2'" src="https://wiki.eveuniversity.org/images/9/9d/CornerT2h.png" alt="T2 Ribbon" class="absolute top-0 left-0 w-12 h-12 rounded" />
+              <img v-if="ship.techLevel === 'T3'" src="https://wiki.eveuniversity.org/images/f/f6/CornerT3h.png" alt="T3 Ribbon" class="absolute top-0 left-0 w-12 h-12 rounded" />
+            </div>
           </td>
           <td class="py-2 px-4 border-b border-gray-600 text-white text-lg">{{ ship.name }}</td>
           <td class="py-2 px-4 border-b border-gray-600 text-white text-lg">{{ ship.size }}</td>

@@ -1,0 +1,190 @@
+[
+    {
+      "name": "Gallente Federation Day",
+      "dates": "June 16-28",
+      "description": "The annual Gallente Federation Day event returns to commemorate the empire’s national holiday.",
+      "activities": [
+        "Celebratory Parades across New Eden",
+        "Grand Prix Races",
+        "Mining Blitzes",
+        "Special ship decals on the New Eden Store"
+      ],
+      "howToParticipate": [
+        "Visit Gallente Federation space to enjoy the warp speed bonus and see the parades!",
+        "Head to the Luminaire system any time to start a race across New Eden from the Grand Prix starting line.",
+        "Join the party in Luminaire on June 25th starting at 18:00 UTC.",
+        "Participate for at least eight days over the event to collect all the free gifts!"
+      ],
+      "image": "https://images.ctfassets.net/7lhcm73ukv5p/ozmeNbFvOLi2RNzRuaHnb/de61db29176850fcafbed4dab2a24c21/gallente-federation-day-featured.jpg"
+    },
+    {
+      "name": "The Liberty Ball",
+      "dates": "July 4-6",
+      "description": "A lavish gala celebrating Gallente Federation Day with prominent politicians, holographic art, live music, and extravagant displays.",
+      "activities": [
+        "Political speeches and addresses",
+        "Holographic art installations",
+        "Live music performances",
+        "Charity auctions and galas"
+      ],
+      "howToParticipate": [
+        "Secure your invitation through political connections or social standing.",
+        "Dress in your finest attire and prepare to mingle with the elite.",
+        "Bid on exclusive items and experiences at the charity auctions."
+      ],
+      "image": "/images/73dee75b-eba5-4849-9622-de0ce712b0b8.png" 
+    },
+    {
+      "name": "The Intaki Harmony Festival",
+      "dates": "August 1-7",
+      "description": "A week-long celebration of Intaki culture and spirituality within the Federation.",
+      "activities": [
+        "Meditation retreats and workshops",
+        "Public lectures on Ida philosophy",
+        "Traditional Intaki music and dance performances",
+        "Holographic light shows inspired by Intaki spirituality"
+      ],
+      "howToParticipate": [
+        "Travel to Intaki Prime or other participating locations.",
+        "Join meditation sessions and learn about Intaki spiritual practices.",
+        "Experience the beauty of Intaki culture through music, dance, and art."
+      ],
+      "image": "/images/061a1297-bc45-4c0e-bd2a-6d4de884bd50.png" 
+    },
+    {
+      "name": "The Jin-Mei Trade Summit",
+      "dates": "September 10-14",
+      "description": "A gathering of influential Jin-Mei business leaders and entrepreneurs from across New Eden.",
+      "activities": [
+        "Keynote speeches from industry leaders",
+        "Product demonstrations and technology showcases",
+        "Networking events and investment opportunities",
+        "Panel discussions on economic trends and future outlooks"
+      ],
+      "howToParticipate": [
+        "Register as an attendee or exhibitor through the official summit website.",
+        "Attend keynote speeches and panel discussions.",
+        "Explore the exhibition hall and connect with potential business partners."
+      ],
+      "image": "https://sm.ign.com/t/ign_fr/screenshot/default/capture-decran-2022-09-07-171850_ggnk.1200.jpg" 
+    },
+    {
+      "name": "The Mannar Remembrance Day",
+      "dates": "November 11",
+      "description": "A solemn occasion commemorating the sacrifices of Mannar soldiers throughout history.",
+      "activities": [
+        "Military parades and ceremonies",
+        "Speeches from veterans and government officials",
+        "Holographic memorials and historical exhibitions",
+        "Moments of silence and wreath-laying ceremonies"
+      ],
+      "howToParticipate": [
+        "Attend memorial services and pay your respects.",
+        "Visit historical sites and learn about the sacrifices of Mannar soldiers.",
+        "Show your support for veterans and their families."
+      ],
+      "image": "/images/f014d04f-a832-4b23-8e74-7c4d840a92f8.png" 
+    },
+    {
+      "name": "The Black Eagles Recruitment Drive",
+      "dates": "October 25-27",
+      "description": "A controversial event where the FIO actively seeks out promising candidates for their ranks.",
+      "activities": [
+        "Aptitude tests and psychological evaluations",
+        "Physical challenges and combat simulations",
+        "Interviews with FIO recruiters and agents",
+        "Information sessions on the role and responsibilities of the Black Eagles"
+      ],
+      "howToParticipate": [
+        "Visit an FIO recruitment center and undergo the screening process.",
+        "Demonstrate your skills and abilities in the physical and mental challenges.",
+        "Prove your loyalty and dedication to the Federation."
+      ],
+      "image": "https://web.ccpgamescdn.com/communityassets/img/chronicles/chronicleBoxImage/blackEagles.jpg" 
+    },
+    {
+      "name": "The Luminaire Grand Prix",
+      "dates": "May 1-15",
+      "description": "A high-stakes, intergalactic spaceship race through a treacherous asteroid field.",
+      "activities": [
+        "Qualifying rounds and championship race",
+        "Live commentary and analysis",
+        "Spectator betting and prize pools",
+        "Ship exhibitions and meet-and-greets with pilots"
+      ],
+      "howToParticipate": [
+        "Register as a pilot and compete in the qualifying rounds.",
+        "Attend the race as a spectator and cheer for your favorite pilot.",
+        "Place bets on the outcome of the race."
+      ],
+      "image": "https://images.ctfassets.net/7lhcm73ukv5p/1g9tbJiiEcxDXFlnmOsCnJ/ff6f4eccfecd9b5e3b08fc4899c401e5/federation-grand-prix-2021_en.jpg" 
+    },
+    {
+      "name": "The Crystal Boulevard Fashion Week",
+      "dates": "March 18-24",
+      "description": "A showcase of the latest trends in Gallente fashion and body modification.",
+      "activities": [
+        "Runway shows featuring renowned designers",
+        "Exhibitions of cutting-edge cybernetics and bio-art",
+        "Workshops on fashion design and body modification",
+        "Parties and social events attended by fashion icons"
+      ],
+      "howToParticipate": [
+        "Attend runway shows and exhibitions.",
+        "Network with designers, models, and industry professionals.",
+        "Purchase the latest fashion and body modification trends."
+      ],
+      "image": "https://images.contentful.com/1gqwxa4vbed9/43xeZgme4vbpiXdtqIFsCq/8deed33e2d5a4ad3a1794667b93f5a0d/Gallente1.png" 
+    },
+    {
+      "name": "The Intaki Dreamweaving Festival",
+      "dates": "December 1-7",
+      "description": "A celebration of Intaki art, music, and storytelling.",
+      "activities": [
+        "Interactive holographic installations",
+        "Live performances of traditional Intaki music and dance",
+        "Workshops on dream interpretation and lucid dreaming",
+        "Storytelling sessions and cultural exhibitions"
+      ],
+      "howToParticipate": [
+        "Immerse yourself in the interactive art installations.",
+        "Experience the beauty of Intaki music and dance.",
+        "Learn about dream interpretation and Intaki spiritual practices."
+      ],
+      "image": "/images/2707df52-72b8-4ffb-b41c-4aba3b6c32fc.png" 
+    },
+    {
+      "name": "The Jin-Mei Tech Expo",
+      "dates": "February 5-9",
+      "description": "A display of the latest advancements in Jin-Mei technology, from cutting-edge weaponry to sophisticated cybernetics.",
+      "activities": [
+        "Product demonstrations and interactive exhibits",
+        "Keynote speeches from leading scientists and engineers",
+        "Investment opportunities and startup pitches",
+        "Networking events and workshops"
+      ],
+      "howToParticipate": [
+        "Attend the expo as a visitor or industry professional.",
+        "Explore the latest technological innovations.",
+        "Connect with potential investors or business partners."
+      ],
+      "image": "/images/95cf8d38-84ac-42be-85b8-2588671f97db.png" 
+    },
+    {
+      "name": "The Mannar War Games",
+      "dates": "April 12-14",
+      "description": "A series of simulated combat exercises and competitions designed to test the skills and tactics of capsuleers.",
+      "activities": [
+        "Team-based battles and capture-the-flag scenarios",
+        "Challenges requiring piloting expertise and strategic thinking",
+        "Prizes and recognition for top-performing teams and individuals",
+        "Spectator viewing areas and live commentary"
+      ],
+      "howToParticipate": [
+        "Form a team and register for the War Games.",
+        "Compete in the various challenges and battles.",
+        "Attend as a spectator and witness the action."
+      ],
+      "image": "/images/43f9220c-ada0-4046-b12d-5aa63e0fcc23.png" 
+    }
+  ]

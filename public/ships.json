@@ -4,237 +4,279 @@
     "size": "Large",
     "speed": "122 m/s",
     "classification": "Battleship",
-    "icon": "https://wiki.eveuniversity.org/images/e/e4/Megathron.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/e/e4/Megathron.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Vexor",
     "size": "Medium",
     "speed": "195 m/s",
     "classification": "Cruiser",
-    "icon": "https://wiki.eveuniversity.org/images/d/d9/Vexor.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/d/d9/Vexor.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Tristan",
     "size": "Small",
     "speed": "315 m/s",
     "classification": "Frigate",
-    "icon": "https://wiki.eveuniversity.org/images/e/e0/Tristan.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/e/e0/Tristan.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Dominix",
     "size": "Large",
     "speed": "109 m/s",
     "classification": "Battleship",
-    "icon": "https://wiki.eveuniversity.org/images/e/e7/Dominix.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/e/e7/Dominix.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Thorax",
     "size": "Medium",
     "speed": "240 m/s",
     "classification": "Cruiser",
-    "icon": "https://wiki.eveuniversity.org/images/8/89/Thorax.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/8/89/Thorax.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Incursus",
     "size": "Small",
     "speed": "340 m/s",
     "classification": "Frigate",
-    "icon": "https://wiki.eveuniversity.org/images/8/8e/Incursus.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/8/8e/Incursus.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Erebus",
     "size": "Capital",
     "speed": "70 m/s",
     "classification": "Titan",
-    "icon": "https://wiki.eveuniversity.org/images/9/9c/Erebus.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/9/9c/Erebus.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Nyx",
     "size": "Capital",
     "speed": "80 m/s",
     "classification": "Supercarrier",
-    "icon": "https://wiki.eveuniversity.org/images/7/7d/Nyx.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/7/7d/Nyx.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Ares",
     "size": "Small",
     "speed": "425 m/s",
     "classification": "Frigate",
-    "icon": "https://wiki.eveuniversity.org/images/c/c4/Ares.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/c/c4/Ares.jpg",
+    "techLevel": "T2"
   },
   {
     "name": "Deimos",
     "size": "Medium",
     "speed": "230 m/s",
     "classification": "Cruiser",
-    "icon": "https://wiki.eveuniversity.org/images/7/7a/Deimos.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/7/7a/Deimos.jpg",
+    "techLevel": "T2"
   },
   {
     "name": "Ishtar",
     "size": "Medium",
     "speed": "175 m/s",
     "classification": "Cruiser",
-    "icon": "https://wiki.eveuniversity.org/images/d/dd/Ishtar.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/d/dd/Ishtar.jpg",
+    "techLevel": "T2"
   },
   {
     "name": "Atron",
     "size": "Small",
     "speed": "420 m/s",
     "classification": "Frigate",
-    "icon": "https://wiki.eveuniversity.org/images/1/11/Atron.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/1/11/Atron.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Navitas",
     "size": "Small",
     "speed": "410 m/s",
     "classification": "Frigate",
-    "icon": "https://wiki.eveuniversity.org/images/c/ce/Navitas.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/c/ce/Navitas.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Maulus",
     "size": "Small",
     "speed": "375 m/s",
     "classification": "Frigate",
-    "icon": "https://wiki.eveuniversity.org/images/2/28/Maulus.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/2/28/Maulus.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Imicus",
     "size": "Small",
     "speed": "330 m/s",
     "classification": "Frigate",
-    "icon": "https://wiki.eveuniversity.org/images/f/f6/Imicus.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/f/f6/Imicus.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Algos",
     "size": "Small",
     "speed": "245 m/s",
     "classification": "Destroyer",
-    "icon": "https://wiki.eveuniversity.org/images/9/98/Algos.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/9/98/Algos.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Catalyst",
     "size": "Small",
     "speed": "265 m/s",
     "classification": "Destroyer",
-    "icon": "https://wiki.eveuniversity.org/images/9/9d/Catalyst.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/9/9d/Catalyst.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Celestis",
     "size": "Medium",
     "speed": "210 m/s",
     "classification": "Cruiser",
-    "icon": "https://wiki.eveuniversity.org/images/4/4e/Celestis.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/4/4e/Celestis.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Exequror",
     "size": "Medium",
     "speed": "240 m/s",
     "classification": "Cruiser",
-    "icon": "https://wiki.eveuniversity.org/images/6/62/Exequror.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/6/62/Exequror.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Brutix",
     "size": "Medium",
     "speed": "160 m/s",
     "classification": "Battlecruiser",
-    "icon": "https://wiki.eveuniversity.org/images/1/12/Brutix.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/1/12/Brutix.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Myrmidon",
     "size": "Medium",
     "speed": "145 m/s",
     "classification": "Battlecruiser",
-    "icon": "https://wiki.eveuniversity.org/images/4/40/Myrmidon.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/4/40/Myrmidon.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Talos",
     "size": "Medium",
     "speed": "220 m/s",
     "classification": "Battlecruiser",
-    "icon": "https://wiki.eveuniversity.org/images/6/6b/Talos.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/6/6b/Talos.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Hyperion",
     "size": "Large",
     "speed": "115 m/s",
     "classification": "Battleship",
-    "icon": "https://wiki.eveuniversity.org/images/b/bb/Hyperion.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/b/bb/Hyperion.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Kronos",
     "size": "Large",
     "speed": "105 m/s",
     "classification": "Battleship",
-    "icon": "https://wiki.eveuniversity.org/images/3/32/Kronos.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/3/32/Kronos.jpg",
+    "techLevel": "T2"
   },
   {
     "name": "Thanos-tos",
     "size": "Capital",
     "speed": "80 m/s",
     "classification": "Carrier",
-    "icon": "https://www.pandemic-horde.org/forum/data/avatars/h/5/5344.jpg?1552428238"
+    "icon": "https://www.pandemic-horde.org/forum/data/avatars/h/5/5344.jpg?1552428238",
+    "techLevel": "T1"
   },
   {
     "name": "Ninazu",
     "size": "Capital",
     "speed": "80 m/s",
     "classification": "Carrier",
-    "icon": "https://wiki.eveuniversity.org/images/4/4f/Ninazu.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/4/4f/Ninazu.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Obelisk",
     "size": "Captial",
     "speed": "65 m/s",
     "classification": "Freighter",
-    "icon": "https://wiki.eveuniversity.org/images/c/c6/Obelisk.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/c/c6/Obelisk.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Nereus",
     "size": "Industrial",
     "speed": "130 m/s",
     "classification": "Hauler",
-    "icon": "https://wiki.eveuniversity.org/images/e/e2/Nereus.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/e/e2/Nereus.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Kryos",
     "size": "Industrial",
     "speed": "120 m/s",
     "classification": "Hauler",
-    "icon": "https://wiki.eveuniversity.org/images/e/ed/Kryos.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/e/ed/Kryos.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Epithal",
     "size": "Industrial",
     "speed": "120 m/s",
     "classification": "Hauler",
-    "icon": "https://wiki.eveuniversity.org/images/f/f1/Epithal.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/f/f1/Epithal.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Miasmos",
     "size": "Industrial",
     "speed": "120 m/s",
     "classification": "Hauler",
-    "icon": "https://wiki.eveuniversity.org/images/3/3b/Miasmos.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/3/3b/Miasmos.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Iteron Mark V",
     "size": "Industrial",
     "speed": "105 m/s",
     "classification": "Hauler",
-    "icon": "https://wiki.eveuniversity.org/images/2/20/Iteron_Mark_V.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/2/20/Iteron_Mark_V.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Velator",
     "size": "Small",
     "speed": "305 m/s",
     "classification": "Corvette",
-    "icon": "https://wiki.eveuniversity.org/images/3/33/Velator.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/3/33/Velator.jpg",
+    "techLevel": "T1"
   },
   {
     "name": "Gallente Shuttle",
     "size": "Small",
     "speed": "500 m/s",
     "classification": "Shuttle",
-    "icon": "https://wiki.eveuniversity.org/images/e/e9/Gallente_Shuttle.jpg"
+    "icon": "https://wiki.eveuniversity.org/images/e/e9/Gallente_Shuttle.jpg",
+    "techLevel": "T1"
+  },
+  {
+    "name": "Proteus",
+    "size": "Medium",
+    "speed": "230 m/s",
+    "classification": "Cruiser",
+    "icon": "https://wiki.eveuniversity.org/images/8/8b/Proteus.jpg",
+    "techLevel": "T3"
   }
 ]
