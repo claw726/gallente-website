@@ -2,14 +2,11 @@
   {
     "link": {"text": "Home", "url": "0"},
     "pageTitle": "Gallente Federation Home",
+    "mainDescription": "Welcome to the Gallente Federation, where democracy is as vast as our space fleet and freedom is as abundant as our bureaucracy. Dive into our rich culture, where every citizen is free to express their individuality—just like everyone else. ",
     "sections": [
       {
-        "title": "Welcome",
-        "content": "Welcome to the Gallente Federation, where democracy is as vast as our space fleet and freedom is as abundant as our bureaucracy. Dive into our rich culture, where every citizen is free to express their individuality—just like everyone else. <br><br><a href='#/constitution' style='text-decoration: underline; color: #F39058'>Read our Constitution</a>"
-      },
-      {
-        "title": "News and Content",
-        "content": "Stay informed with the latest news and updates from the Gallente Federation. From policy changes to cultural events, we keep you in the loop—whether you like it or not."
+        "title": "Constitution",
+        "content": "<br><br><a href='#/constitution' style='text-decoration: underline; color: #F39058'>Read our Constitution</a>"
       },
       {
         "title": "Featured Initiatives",
@@ -22,11 +19,8 @@
   {
     "link": {"text": "About", "url": "1"},
     "pageTitle": "About the Gallente Federation",
+    "mainDescription": "The Gallente Federation prides itself on liberty and innovation, because nothing says freedom like a few hundred regulations. Discover our history, where every decision is made by committee, ensuring that no good idea goes unpunished.",
     "sections": [
-      {
-        "title": "Welcome",
-        "content": "The Gallente Federation prides itself on liberty and innovation, because nothing says freedom like a few hundred regulations. Discover our history, where every decision is made by committee, ensuring that no good idea goes unpunished."
-      },
       {
         "title": "Our Allies",
         "content": "The Gallente Federation is thrilled to be in cahoots with a motley crew of factions across the universe that allegedly share our undying love for freedom and liberty. These alliances are supposedly built on mutual respect, shared values, and a common vision for a future where democracy and individual rights are upheld—at least when it’s convenient. Whether it’s through diplomatic handshakes or the occasional back-patting, we’re all about spreading the good word of democracy, one strategic alliance at a time.<br><br><a href='#/allies' style='text-decoration: underline; color: #F39058'>Click here to learn more</a>"
@@ -42,11 +36,8 @@
   {
     "link": {"text": "Contact", "url": "2"},
     "pageTitle": "Contact Us",
+    "mainDescription": "Reach out to the Gallente Federation for more information or inquiries. Our customer service is as efficient as a space slug, but rest assured, your call is very important to us.",
     "sections": [
-      {
-        "title": "Contact",
-        "content": "Reach out to the Gallente Federation for more information or inquiries. Our customer service is as efficient as a space slug, but rest assured, your call is very important to us."
-      },
       {
         "title": "Frequently Asked Questions",
         "content": "Got questions? We've got answers. Check out our <a href='#/FAQ' style='text-decoration: underline; color: #F39058'>FAQ</a> section for all the information you never knew you needed."
@@ -62,11 +53,8 @@
   {
     "link": {"text": "Culture", "url": "3"},
     "pageTitle": "Gallente Culture",
+    "mainDescription": "Explore the vibrant culture of the Gallente, where art, music, and fashion are as diverse as our opinions on space taxes. Join us in celebrating the freedom to conform to our unique standards.",
     "sections": [
-      {
-        "title": "Culture",
-        "content": "Explore the vibrant culture of the Gallente, where art, music, and fashion are as diverse as our opinions on space taxes. Join us in celebrating the freedom to conform to our unique standards."
-      },
       {
         "title": "Art and Entertainment",
         "content": "Immerse yourself in the vibrant art and entertainment scene of the Gallente Federation, where creativity knows no bounds—except for the ones we set.<br><br><a href='#/arts_and_entertainment' style='text-decoration: underline; color: #F39058'>Learn more</a>"
@@ -82,11 +70,8 @@
   {
     "link": {"text": "Technology", "url": "4"},
     "pageTitle": "Gallente Technology",
+    "mainDescription": "Discover the cutting-edge technology that powers the Gallente Federation, from starships to AI. Our tech is so advanced, it practically runs itself—except when it doesn't.",
     "sections": [
-      {
-        "title": "Technology",
-        "content": "Discover the cutting-edge technology that powers the Gallente Federation, from starships to AI. Our tech is so advanced, it practically runs itself—except when it doesn't."
-      },
       {
         "title": "Research and Development",
         "content": "Discover the cutting-edge research and development efforts that keep the Gallente Federation at the forefront of technological innovation.<br><br><a href='#/R&D' style='text-decoration: underline; color: #F39058'>Click here to learn more</a>"

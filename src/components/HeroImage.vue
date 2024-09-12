@@ -5,9 +5,10 @@
     <div v-if="imageLoaded" class="absolute inset-0 flex items-end justify-center p-4">
       <div class="w-full bg-opacity-50 gallente-primary p-6 px-4 rounded-lg pane">
         
-        <h1 class="text-4xl font-bold mb-4 text-center text-gray-200 rounded-lg">{{ title }}</h1>
+        <h1 class="text-4xl font-bold mb-4 text-center text-gray-200">{{ title }}</h1>
+        <h3 class="text-2xl font-bold mb-2 text-center text-gray-200">{{ mainDescription }}</h3>
         
-        <div class="flex flex-wrap justify-center -mx-4">
+        <div class="flex flex-wrap justify-center -mx-4 pt-6">
           <div
             v-for="(section, index) in sections"
             :key="index"
@@ -58,6 +59,10 @@ export default {
     },
     sections: {
       type: Array,
+      required: true
+    },
+    mainDescription: {
+      type: String,
       required: true
     }
   },

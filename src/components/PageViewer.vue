@@ -4,6 +4,7 @@
       <HeroImage
         :imageSrc="page.image"
         :title="page.pageTitle"
+        :mainDescription="page.mainDescription"
         :sections="page.sections"
       />
     </div>
