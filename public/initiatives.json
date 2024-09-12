@@ -1,0 +1,57 @@
+[     {
+    "name": "Faction Warfare",
+    "description": "Protecting the Gallente Federation's interests and defending against threats from other factions.",
+    "goals": "Secure 5 key systems from enemy factions within the next year.",
+    "features": ["Advanced military technology", "Strategic alliances", "Intelligence gathering operations"],
+    "progress": ["3 key systems have been secured", "2 more systems are under protection"],
+    "image": "https://images.ctfassets.net/7lhcm73ukv5p/77yTzd10Rh2Iv2TLMTuY95/e084983e43c41ad8fa861650d0913d56/gallente-hero-bg.jpg"
+    },
+    {
+      "name": "Galactic Democracy Expansion",
+      "description": "Aiming to expand democratic principles across the galaxy, promoting freedom and cooperation among nations.",
+      "goals": "Establish democratic governments in 5 new systems within the next year.",
+      "features": ["Establishment of democratic institutions", "Promotion of interstellar cooperation"],
+      "progress": ["3 systems have adopted democratic governments", "2 more systems are in the process of transitioning"],
+      "image": "https://www.eve-wallpaper.com/public/uploads/preview/gallente-federation-nyx-31672481362kklxizesgk.png"
+    },
+    {
+      "name": "Intergalactic Cultural Exchange",
+      "description": "Fostering cultural understanding and exchange between the Gallente Federation and other interstellar nations.",
+      "goals": "Host 10 cultural exchange events across the galaxy within the next 6 months.",
+      "features": ["Cultural performances", "Art exhibitions", "Culinary festivals"],
+      "progress": ["5 events have been successfully hosted", "3 more events are scheduled"],
+      "image": "./images/875738b3-c8f7-4e92-b7b9-43673791dee0.png"
+    },
+    {
+      "name": "Space Exploration Initiative",
+      "description": "Exploring the unknown reaches of the galaxy, expanding our knowledge and pushing the boundaries of space travel.",
+      "goals": "Explore 3 new star systems within the next year.",
+      "features": ["Advanced propulsion systems", "State-of-the-art scanning technology", "Enhanced life support systems"],
+      "progress": ["1 new star system has been explored", "2 more systems are being surveyed"],
+      "image": "https://r4.wallpaperflare.com/wallpaper/715/102/400/eve-online-space-spaceship-wallpaper-8940c85da16a8d6b5677f8df7031865d.jpg"
+    },
+    {
+        "name": "Environmental Sustainability",
+        "description": "Protecting the environment and promoting sustainable practices throughout the galaxy.",
+        "goals": "Reduce carbon emissions by 20% in the next 2 years.",
+        "features": ["Renewable energy sources", "Eco-friendly technologies", "Waste reduction programs"],
+        "progress": ["10% reduction in carbon emissions achieved", "Implementation of eco-friendly technologies in 5 systems"],
+        "image": "https://www.eve-wallpaper.com/public/uploads/preview/gallente-gate-1461585675989o6rlj3tenh.png"
+      },
+      {
+        "name": "Interstellar Education",
+        "description": "Providing access to quality education for all citizens across the galaxy, promoting knowledge and understanding.",
+        "goals": "Establish 10 new educational institutions in underdeveloped systems within the next 3 years.",
+        "features": ["Advanced virtual learning platforms", "Scholarship programs", "Teacher training initiatives"],
+        "progress": ["5 new institutions have been established", "2 more are under construction"],
+        "image": "./images/7a64d349-809a-448d-b9a2-33464c5f9939.png"
+      },
+      {
+        "name": "Galactic Health Initiative",
+        "description": "Improving healthcare services and promoting healthy living across the galaxy.",
+        "goals": "Reduce mortality rates by 15% in the next year.",
+        "features": ["Advanced medical research", "Healthcare infrastructure development", "Public health awareness campaigns"],
+        "progress": ["10% reduction in mortality rates achieved", "Implementation of advanced medical research in 3 systems"],
+        "image": "./images/051e5a27-153e-4e86-996a-810b7a6e0ffd.png"
+      }
+  ]

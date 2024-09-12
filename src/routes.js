@@ -10,6 +10,7 @@ import Events from './components/GallenteEvents.vue';
 import FAQ from './components/FAQPage.vue';
 import Constitution from './components/GallenteConstitution.vue';
 import ArtsAndEntertainment from './components/GallenteArts&Entertainment.vue'
+import FeaturedInitiatives from './components/FeaturedInitiatives.vue';
 
 
 const router = createRouter({
@@ -26,7 +27,8 @@ const router = createRouter({
         { path: '/events', component: Events},
         { path: '/FAQ', component: FAQ},
         { path: '/constitution', component: Constitution},
-        { path: '/arts_and_entertainment', component: ArtsAndEntertainment}
+        { path: '/arts_and_entertainment', component: ArtsAndEntertainment},
+        { path: '/featuredInitiatives', component: FeaturedInitiatives}
 
     ]
 });

@@ -6,11 +6,11 @@
     "sections": [
       {
         "title": "Constitution",
-        "content": "<br><br><a href='#/constitution' style='text-decoration: underline; color: #F39058'>Read our Constitution</a>"
+        "content": "Discover the foundations of the Gallente Federation's democracy and governance in our Constitution page.<br><br><a href='#/constitution' style='text-decoration: underline; color: #F39058'>Read our Constitution</a>"
       },
       {
         "title": "Featured Initiatives",
-        "content": "Explore our latest initiatives aimed at enhancing freedom and democracy across the galaxy. Because nothing says 'progress' like a committee-approved project."
+        "content": "Explore our latest initiatives aimed at enhancing freedom and democracy across the galaxy. Because nothing says 'progress' like a committee-approved project.<br><br><a href='#/featuredInitiatives' style='text-decoration: underline; color: #F39058'>Learn more</a>"
       }
     ],
     "image": "https://www.eve-wallpaper.com/public/uploads/preview/gallente-motherships-515460308351npfz2u1kl.jpg",
