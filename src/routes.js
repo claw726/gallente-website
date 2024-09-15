@@ -11,6 +11,7 @@ import FAQ from './components/FAQPage.vue';
 import Constitution from './components/GallenteConstitution.vue';
 import ArtsAndEntertainment from './components/GallenteArts&Entertainment.vue'
 import FeaturedInitiatives from './components/FeaturedInitiatives.vue';
+import Enlist from './components/EnlistPage.vue';
 
 
 const router = createRouter({
@@ -28,7 +29,8 @@ const router = createRouter({
         { path: '/FAQ', component: FAQ},
         { path: '/constitution', component: Constitution},
         { path: '/arts_and_entertainment', component: ArtsAndEntertainment},
-        { path: '/featuredInitiatives', component: FeaturedInitiatives}
+        { path: '/featuredInitiatives', component: FeaturedInitiatives},
+        { path: '/enlist', component: Enlist}
 
     ]
 });

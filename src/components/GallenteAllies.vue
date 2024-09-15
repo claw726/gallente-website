@@ -14,7 +14,7 @@
       </div>
       
       <div class="p-4 flex md:w-1/2 justify-center items-center rounded-lg">
-        <img :src="ally.image" :alt="ally.name" class="w-auto rounded-lg shadow-md m-8 border-gallente-green glow-effect-green" :class="{ 'hidden': !ally.imageLoaded }" @load="ally.imageLoaded = true">
+        <img :src="ally.image" :alt="ally.name" class="max-h-80 w-auto rounded-lg shadow-md m-8 border-gallente-green glow-effect-green" :class="{ 'hidden': !ally.imageLoaded }" @load="ally.imageLoaded = true">
         <div v-if="!ally.imageLoaded" class="w-auto rounded-lg shadow-md m-8 border-alert-green glow-effect-green" :style="{ height: '100px', width: '100px' }"></div>
       </div>
     </section>

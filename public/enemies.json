@@ -89,5 +89,47 @@
         "Threats to regional security and stability."
     ],
     "image": "https://webimg.ccpgamescdn.com/kvd74o0q2fjg/3erT9MJbzamWiM42OWMaYy/53615170325d20285b27b5ceae364995/FeatureImageCruiserBurnerMissions_1920x1080.jpg"
-  }
+  },
+  {
+    "name": "Mordu's Legion",
+    "description": "While Mordu's Legion operates independently, their close ties with the Caldari State and access to Caldari military gear suggest a leaning towards Caldari interests, potentially opposing Gallente objectives.",
+    "reasons": [
+      "Close ties with the Caldari State, a known rival of the Gallente Federation.",
+      "Access to high-end Caldari military gear, which could be used against Gallente interests.",
+      "Leadership remains predominantly Caldari, aligning more with Caldari political and military goals.",
+      "Historical operations outside Gallente space, potentially conflicting with Gallente territorial interests.",
+      "Potential for being hired by Caldari-aligned corporations or factions that oppose Gallente objectives."
+    ],
+    "image": "https://www.eve-wallpaper.com/public/uploads/preview/mordu-legion-battleship-31544350114l5kawvwcmz.jpg"
+  },
+  {
+    "name": "Goonswarm Federation",
+    "description": "One of the largest and most influential player alliances in EVE Online, known for their strategic prowess and large-scale operations.",
+    "reasons": [
+        "Massive fleet operations threatening Gallente territories.",
+        "Complex political maneuvers impacting regional stability.",
+        "Resource competition in contested areas."
+    ],
+    "image": "https://global.discourse-cdn.com/eveonline/original/4X/0/1/4/0146119f12b8838e2c6ff6a8c6d44d0238c400dc.jpeg"
+},
+{
+    "name": "TEST Alliance Please Ignore",
+    "description": "A major player alliance known for their active participation in null-sec politics and large-scale battles.",
+    "reasons": [
+        "Aggressive territorial expansion into Gallente-influenced regions.",
+        "Frequent large-scale battles affecting regional control.",
+        "Strategic alliances with other hostile entities."
+    ],
+    "image": "https://i.redd.it/e0m75cg332wa1.png"
+},
+{
+  "name": "The Initiative",
+  "description": "The Initiative is a player alliance known for their aggressive tactics and frequent harassment of other factions, including the Gallente Federation.",
+  "reasons": [
+      "Regular harassment and raids on Gallente assets.",
+      "Disruption of trade routes and economic activities.",
+      "Unpredictable and aggressive military maneuvers."
+  ],
+  "image": "https://evenews24.com/wp-content/uploads/2018/01/init.jpg"
+}
 ]

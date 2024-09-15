@@ -58,5 +58,57 @@
             "Strong ties with Jovian entities and access to unique resources."
         ],
         "image": "images\\Clear Skies 3 BackDrop.webp"
+    },
+    {
+        "name": "EDENCOM",
+        "description": "EDENCOM is a defense initiative formed to combat the Triglavian invasion, supported by the Gallente Federation and other major empires. It represents a unified effort to protect New Eden from external threats.",
+        "benefits": [
+            "Joint military operations against the Triglavian Collective.",
+            "Shared defense technologies and strategies.",
+            "Strengthened diplomatic ties with other supporting empires."
+        ],
+        "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0e9a10c0-f4b2-466d-baf2-494d6a3bad32/ddza02d-692db05e-84a3-4673-ad7e-1a056744fb0f.png/v1/fill/w_1000,h_800,q_70,strp/edencom_wallpaper_by_technokoopa_ddza02d-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjA0OCIsInBhdGgiOiJcL2ZcLzBlOWExMGMwLWY0YjItNDY2ZC1iYWYyLTQ5NGQ2YTNiYWQzMlwvZGR6YTAyZC02OTJkYjA1ZS04NGEzLTQ2NzMtYWQ3ZS0xYTA1Njc0NGZiMGYucG5nIiwid2lkdGgiOiI8PTI1NjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.3U5zwgxk_RnDPTrabY8bKhrQyUdssx0U5vvdulO3FoQ"
+    },
+    {
+        "name": "CONCORD",
+        "description": "CONCORD serves as the interstellar police force, ensuring law and order across New Eden. While maintaining neutrality, it acts in the interest of all major empires, including the Gallente Federation, to uphold peace and security.",
+        "benefits": [
+            "Enforcement of interstellar law and order.",
+            "Protection of high-security space from unlawful activities.",
+            "Facilitation of diplomatic relations between empires."
+        ],
+        "image": "https://web.ccpgamescdn.com/newssystem/media/73307/1/CONCORD_Firewatch.png"
+    },
+    {
+        "name": "Pandemic Horde",
+        "description": "A well-known player alliance recognized for their elite PvP capabilities and strategic influence in null-sec space.",
+        "benefits": [
+            "Joint operations in PvP and strategic territorial control.",
+            "Collaboration on high-level military strategies.",
+            "Support in maintaining security in contested regions."
+        ],
+        "image": "https://images.evetech.net/alliances/99005338/logo"
+    },
+    {
+        "name": "Brave Collective",
+        "description": "A player alliance known for their welcoming community and focus on new player engagement.",
+        "benefits": [
+            "Support in training and integrating new players into Gallente operations.",
+            "Collaboration on community-driven initiatives.",
+            "Joint ventures in exploration and resource gathering."
+        ],
+        "image": "https://images.evetech.net/alliances/99003214/logo?size=128"
+    },
+    {
+        "name": "Hysterical Friends",
+        "description": "Hysterical Friends is an alliance dedicated to policing the Syndicate and Outer Ring regions, defending Gallente interests, and supporting industrial operations.",
+        "benefits": [
+            "Policing the Syndicate and Outer Ring regions to deter criminals and trespassers.",
+            "Defensive fleets protecting the Gallente College of Applied Science's infrastructure.",
+            "Industrial operations focused on building Nuclear Reactors for the Federation.",
+            "Enhancement of regional security and stability.",
+            "Support in maintaining critical infrastructure and technological advancements."
+        ],
+        "image": "./images/IMG_0971.jpeg"
     }
 ]
