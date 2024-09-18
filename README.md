@@ -2,18 +2,11 @@
 
 ## Project setup
 ```
-npm install
+cd gallente-website
+docker build -t gallente-website .
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+docker run -p 8080:8080 gallente-website
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
