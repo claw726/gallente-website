@@ -3,7 +3,7 @@
     <img :src="imageSrc" alt="Hero Image" class="w-full rounded-xl h-auto object-cover" ref="image" @load="imageLoaded = true">
     
         <!-- Enlistment Panel -->
-      <div class="absolute top-4 right-4 gallente-primary border-gallente-green glow-effect text-white p-4 rounded-lg glow-effect z-10">
+      <div class="absolute top-4 right-4 gallente-primary text-white p-4 rounded-lg glow-effect neon-border-box z-10">
       <h2 class="text-lg font-bold mb-2">Enlist in the Federal Navy</h2>
       <p class="text-sm">Join the ranks and defend the Federation. Your journey begins here!</p>
       <button @click="navigateToEnlist" class="mt-2 gallente-primary border-gallente-green text-white font-bold py-1 px-3 rounded transform transition-transform duration-300 hover:scale-105 hover:gallente-accent hover:glow-effect">
@@ -53,7 +53,6 @@
 </template>
 
 <script>
-import { computed } from 'vue';
 import { themeState } from '../eventBus.js';
 import { useRoute } from 'vue-router';
 
@@ -109,6 +108,67 @@ export default {
 </script>
 <style scoped>
 
+.neon-border-box {
+  width: 300px; /* Adjust as needed */
+  height: auto;
+  display: grid;
+  place-content: center;
+  color: white;
+  text-shadow: 0 1px 0 #000;
+  
+  --border-angle: 0turn;
+  --main-bg: conic-gradient(
+      from var(--border-angle),
+      hsl(158, 45%, 25%),
+      hsl(158, 45%, 25%) 5%,
+      hsl(164, 30%, 25%) 60%,
+      hsl(164, 30%, 25%) 95%
+    );
+  
+  --radar-bg: repeating-radial-gradient(
+    circle at center,
+    rgba(88, 191, 154, 0.1) 0,
+    rgba(88, 191, 154, 0.1) 1px,
+    transparent 1px,
+    transparent 15px
+  );
+
+  border: solid 5px transparent;
+  border-radius: 1em;
+  --gradient-border: conic-gradient(from var(--border-angle), transparent 25%, #58BF9A, #6DB09E 99%, transparent);
+  
+  background:
+    var(--radar-bg),
+    var(--main-bg) padding-box,
+    var(--gradient-border) border-box, 
+    var(--main-bg) border-box;
+  
+  background-position: center center;
+
+  animation: bg-spin 3s linear infinite;
+
+  transition: 300ms;
+}
+
+@keyframes bg-spin {
+  to {
+    --border-angle: 1turn;
+  }
+}
+
+.neon-border-box:hover {
+  /* animation-play-state: paused; */
+  transform: scale(1.05);
+  transition: 300ms;
+}
+
+@property --border-angle {
+  syntax: "<angle>";
+  inherits: true;
+  initial-value: 0turn;
+}
+
+
 .pane {
     border: 2px solid #6DB09E; /* Accent color for the border */
     box-shadow: 0 0 10px #58BF9A, 0 0 20px #58BF9A, 0 0 30px #58BF9A; /* Neon glow effect */
@@ -117,6 +177,12 @@ export default {
     padding: 1.5rem; /* Padding inside the pane */
     margin: 1rem; /* Margin around the pane */
     width: 90%; /* Width of the pane */
+    transition: 300ms;
+}
+
+.pane:hover {
+    transform: scale(1.05);
+    transition: 300ms;
 }
 
 .gallente-primary {
