@@ -6,7 +6,7 @@ cd gallente-website
 docker build -t gallente-website .
 ```
 
-### Compiles and hot-reloads for development
+### Host website
 ```
 docker run -p 8080:8080 gallente-website
 ```
